@@ -1,4 +1,4 @@
-setwd("C:\\Supriya_docs\\OneDrive - GrayMars IoT Solutions Pvt Ltd\\Supriya\\Rprog_samples\\KAGGLE\\Sentiment_analysis")
+
 library(tidyverse)
 #install.packages("ggthemes")
 library(ggthemes)
